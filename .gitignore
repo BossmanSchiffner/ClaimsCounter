@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+*.log
+# Never commit real claim inventories or claimant photographs.
+*.xlsx
+*_complete.zip
+FieldCount_backup_*.zip

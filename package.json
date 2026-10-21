@@ -1,0 +1,1 @@
+{"name":"fieldcount","version":"0.2.0","private":true,"type":"module","description":"Local-first field inventory PWA with no build step","scripts":{"test":"node --test tests/*.test.js"}}
